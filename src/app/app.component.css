@@ -1,0 +1,27 @@
+.primary-color{
+    color: white;
+    background-color: blue;
+}
+
+.secondary-color{
+    color: white;
+    background-color: red;
+}
+
+.container-bg{
+    background-color: black;
+
+}
+
+.container-bg1{
+    background-color: orange;
+    
+}
+
+.container-footer {
+    background-color: black;
+    color: white;
+    padding: 100px;
+    
+
+}
